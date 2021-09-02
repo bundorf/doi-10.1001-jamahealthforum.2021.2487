@@ -1,0 +1,1 @@
+Add raw survey data to this folder. Files dates_2020.csv and hps_weekdates.csv were manually created and uploaded.
